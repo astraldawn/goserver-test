@@ -7,4 +7,4 @@
 5. Then run the export.sh script (. ./export.sh) to set the necessary paths, modify PROJECT_DIR as needed
 6. go build (cd to the location of server.go)
 7. go install
-8. In the command window, run server
+8. In the command window, run server (just type in)
